@@ -22,7 +22,7 @@ Jag studerar för närvarande till **IT-säkerhetsspecialist** vid **TUC Yrkesh�
 ---
 
 ### 📫 Kontakta mig
-- **LinkedIn:** [https://www.linkedin.com/in/alexander-westberg00/](https://www.linkedin.com/in/ditt-namn)
+- **LinkedIn:** [https://www.linkedin.com/in/alexander-westberg00/](https://www.linkedin.com/in/alexander-westberg00/)
 - **E-post:** [alexander.westberg1@outlook.com](mailto:din.mail@exempel.se)
 
 
